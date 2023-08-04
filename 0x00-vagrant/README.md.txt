@@ -1,0 +1,1 @@
+'uname' prints the name of the operating system, when executed without any option.
